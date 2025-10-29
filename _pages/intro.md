@@ -1,5 +1,5 @@
-I am a Ph.D. candidate in the Learning Sciences Program at the Department of Educational & Counselling Psychology, McGill University. I am also a researcher at <a href='https://tlclab.owlstown.net'>Technology, Learning, & Cognition Lab</a>. My research focuses on AI in education, learning analytics, adaptive/personalized learning, natural language processing, and large language models. Before pursuing my Ph.D., I had worked as an Educational Data Specialist for five years，supporting many education companies & organizations (McGraw Hill, Read to Lead, Moonshot Academy, LingoAce, etc.) in the U.S. and China. Beyond that, I founded an EdTech community named Tiz EdTech (a member of AWS EdStart) to support 2,000+ educators and 15,000+ followers. 
+I am a PhD candidate in Learning Sciences Program at Department of Educational & Counselling Psychology, McGill University. My research interest is to investigate and understand how educational apps aimed at young children are designed and created; through studying the pedagogical approaches app developers use to design their apps and comparing how these approaches are manifested in the actual apps. <a href='https://tlclab.owlstown.net'>Technology, Learning, & Cognition Lab</a>. 
 
-# 🔥 News
-- *2025.07*: &nbsp;🤖🤖 I will present at the <a href='https://aied2025.itd.cnr.it'> 26th International Conference on Artificial Intelligence in Education </a>(AIED) in Palermo, Italy (July 23rd, 18:30) to introduce our new AI agent - SSRLBot.
-- *2025.04*: &nbsp;🎉🎉 I've presented at the 2025 AERA Annual Meeting on April 27th, 1:30-3:00pm (The Colorado Convention Center, Floor: Ballroom Level, Four Seasons Ballroom 1). 
+# 🔥 Projects
+- Study of the Pedagogical Foundations of Digital learning Tools/ Educational Apps.
+- Why This App? 
