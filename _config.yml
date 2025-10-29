@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jie Gao"
-description              : "Ph.D. Candidate in Learning Sciences researching AI in education. "
-repository               : "JIE2016G/jg.github.io"
-baseurl                  : "/j.i.e"
+title                    : "Armaghan Montazami"
+description              : "Ph.D. Candidate in Learning Sciences"
+repository               : "armaghan-hub/jg.github.io"
+baseurl                  : "/a.m"
 google_scholar_stats_use_cdn : true
-domain: "https://jie2016g.github.io/j.i.e"
+domain: "https://armaghan-hub.github.io/a.m"
 
 # google analytics
-google_analytics_id      :  G-SDQF6C9VBT
+google_analytics_id      :  
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -23,15 +23,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jie Gao"
-  avatar           : "images/android-chrome-512x512.png.png"
+  name             : "Armaghan Montazami"
+  avatar           : 
   bio              : "EdTech Researcher"
   location         : "Montreal, Canada"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=6PJKbI4AAAAJ&hl=en"
   email            : 
-  researchgate     :  "https://www.researchgate.net/profile/Jie-Gao-170?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Jie-Gao-170?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
